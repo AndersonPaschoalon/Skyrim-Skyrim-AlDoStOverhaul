@@ -10,9 +10,9 @@ A main quest terá um destino um pouco diferente. A quest "A Blade in the Dark" 
 
 Na quest "Diplomatic Immunity" você deverá conversar com Delphine, mas em seguida com o agente, não com Malborn. vocês Combinarão um plano: você deverá continuar agindo como espião, e deverá entregar memorandos a Delphine, mas contendo menos informações confidenciais. Será insturuido a continuar investigando a questão dos dragões de forma independente, até descobrir uma forma de deter Alduim. Um agente Thalmor dentro da embaixada lhe dará essas copias. Será portanto opicional passar pelos subterrâneos. Em seguida, você deverá encontrar o paradeiro de Esbern em Riften. Nesse ponto, não haverão agentes thalmor lhe perseguindo no ratway. Deverá prosseguir o restante da main quest normalmente.
 
-Paarthurnax não poderá ser morto. 
+Na main quest, Paarthurnax  poderá ser morto após a primeira derrota de Alduin, quando Dragonborn conversa com Esbern. Ele irá dizer que os Blades não poderão te ajudar, se você não matar Alduim. No jogo vanilla, a quest para se matar Alduim é iniciada nesse momento. Aqui, ao invés de ser requisitado que você mate Alduim, você deverá informar que os Blades não estão mais dispospos a colaborar, a menos que mate Patrunax. Aqui o seu "chefe" irá dizer que os Blades não são mais necessários, e que você deverá executar eles. Ao retornar, você será elevado ao cargo de justiciar, e poderá adquirir uma casa na ambaixada de Thalmor. 
 
-Depois de derrotar alduim, vc deverá informar que salvou o mundo. Você receberá uma gorda recompensa, e deverá executar os blades. Se o fizer, irá receber outra recompensa, e poderá adquirir um quarto na embaixada, e será promovido a Justiciar. 
+Depois de derrotar alduim, vc deverá informar que salvou o mundo. Você receberá uma gorda recompensa. 
 
 Pt3 - Colegio de Winterhold
 
