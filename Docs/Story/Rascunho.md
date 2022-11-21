@@ -27,7 +27,43 @@ Deverá também construir estatuas de Auri-El no lugar de estatuas de thalos.
 Nestas quests haverão alguns worshipers que vc deverá derrotar. Dois agentes irão te acompanhar. 
 
 
-pt-5
+pt-5 Missing in action
 
-A quest missing in action devera ter um final alternativo. 
+Se você completou a quest missing in action, não poderá se juntar. 
+Se você já se juntou ao Thalmor, deverá conversar com thalmor agent em solitude, que irá criar um livro forjado, dizendo que o personagem já está morto. 
 
+
+pt-6 Quests ban thalos
+
+Localizações das shrines of thalos https://elderscrolls.fandom.com/wiki/Shrine_of_Talos
+
+3.1 Temple of the Divines
+3.2 Temple of Talos
+3.3 Riften
+3.4 Whiterun
+3.5 Talos by the Lake
+3.6 Overlooking Windhelm
+3.7 Weynon Stones
+3.8 White River Valley
+3.9 Shrine of Talos Massacre
+3.10 Markarth
+3.11 Froki's Peak
+3.12 Sea of Ghosts
+3.13 Ilas-Tei's Last Stand
+3.14 Winterhold Glaciers
+3.15 Bloated Man's Grotto
+
+Serão destruidos:
+
+01 Riften
+02 Whiterun
+03 Talos by the Lake
+04 Overlooking Windhelm
+05 Weynon Stones
+06 White River Valley
+07 Shrine of Talos Massacre
+08 Froki's Peak
+09 Sea of Ghosts
+10 Ilas-Tei's Last Stand
+11 Winterhold Glaciers
+12 Bloated Man's Grotto
