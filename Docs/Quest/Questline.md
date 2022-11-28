@@ -28,7 +28,7 @@
                         |                                                    |
                       MQ303                                          *MQPaarthurnax
                         |                                                    |
-                       ...                                             AlDoSt_KillTheBlades      
+                       ...                                          AlDoSt_KillTheBlades      
                         |
                       MQ306---------------------------------------------------
                                                                              |
@@ -60,6 +60,11 @@ Vanilla Quests:
 * MQ206: Alduin's Bane
 * MQ301: The Fallen
 * MQ303: The World-Eater's Eyrie
+
+Mod's Quests:
+* AlDoSt_iAlduimDefeatReward: Quest invisível para Cilderene recompensar após Derrotar Alduim
+* AlDoSt_KillTheBlades: quest para derrotar os Blades
+
 
 
 
