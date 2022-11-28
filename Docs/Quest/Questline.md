@@ -29,7 +29,10 @@
                       MQ303                                          *MQPaarthurnax
                         |                                                    |
                        ...                                             AlDoSt_KillTheBlades      
-                                                                             
+                        |
+                      MQ306---------------------------------------------------
+                                                                             |
+                                                                AlDoSt_iAlduimDefeatReward          
 
 ```
 
