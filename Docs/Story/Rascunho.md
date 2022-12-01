@@ -14,6 +14,7 @@ Pt2 - Main quest
 
 [ok] Na main quest, Paarthurnax  poderá ser morto após a primeira derrota de Alduin, quando Dragonborn conversa com Esbern. Ele irá dizer que os Blades não poderão te ajudar, se você não matar Alduim. No jogo vanilla, a quest para se matar Alduim é iniciada nesse momento. Aqui, ao invés de ser requisitado que você mate Alduim, você deverá informar que os Blades não estão mais dispospos a colaborar, a menos que mate Patrunax. Aqui o seu "chefe" irá dizer que os Blades não são mais necessários, e que você deverá executar eles. Ao retornar, você será elevado ao cargo de justiciar, e poderá adquirir uma casa na ambaixada de Thalmor. 
 
+[ok]
 Depois de derrotar alduim, vc deverá informar que salvou o mundo. Você receberá uma gorda recompensa. 
 
 Pt3 - Colegio de Winterhold
