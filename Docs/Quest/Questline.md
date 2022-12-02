@@ -4,6 +4,8 @@
 [Main Quest](https://elderscrolls.fandom.com/wiki/Main_Quest_(Skyrim)#Quests)
 
 ```
+  AlDoSt_AldmeryDominionStrengtened
+                |
              *MQ106
                 |
    -------------------------------------------------------------------------
@@ -63,7 +65,7 @@ Vanilla Quests:
 * MQ303: The World-Eater's Eyrie
 
 Mod's Quests:
-* AlDoSt_iAlduimDefeatReward: Quest invis�vel para Cilderene recompensar ap�s Derrotar Alduim
+* AlDoSt_iAlduimDefeatReward: Quest invisível para Cilderene recompensar após Derrotar Alduim
 * AlDoSt_KillTheBlades: quest para derrotar os Blades
 
 

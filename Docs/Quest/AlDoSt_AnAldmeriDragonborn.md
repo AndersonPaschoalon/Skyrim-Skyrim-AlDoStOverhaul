@@ -34,7 +34,8 @@ Notas:
 * Uma arma e armadura de glass poderosa
 
 
-**Localizações das shrines of thalos**
+## Shrine of Thalos Locations
+
 **[https://elderscrolls.fandom.com/wiki/Shrine_of_Talos](https://elderscrolls.fandom.com/wiki/Shrine_of_Talos)**
 
 
